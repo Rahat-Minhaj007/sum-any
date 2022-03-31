@@ -124,7 +124,7 @@ const sum = sumArrayObjectIndex(objArray, 0);
 
 console.log(sum);
 /*
-170
+12214
 */
 ```
 
