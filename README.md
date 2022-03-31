@@ -5,13 +5,13 @@ This is a simple library for summing any array `[1, 4, 2, 3]` or any type object
 ```json
     [
       {
-		....
-		"name: "Apple",
+	....
+	"name: "Apple",
     	"price": 120
       },
       {
-		....
-		"name":"Mango",
+	....
+	"name":"Mango",
     	"price": 234
       },
       ...
